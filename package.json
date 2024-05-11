@@ -11,14 +11,14 @@
   },
   "dependencies": {
     "@shoelace-style/shoelace": "^2.15.0",
-    "vue": "^3.4.26"
+    "vue": "^3.4.27"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5",
-    "vite": "^5.2.10",
-    "vite-plugin-static-copy": "^1.0.3",
-    "vue-tsc": "^2.0.15"
+    "vite": "^5.2.11",
+    "vite-plugin-static-copy": "^1.0.4",
+    "vue-tsc": "^2.0.17"
   }
 }
